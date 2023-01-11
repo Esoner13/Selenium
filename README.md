@@ -1,2 +1,2 @@
 # Selenium
-homework
+homework from Stepik course
